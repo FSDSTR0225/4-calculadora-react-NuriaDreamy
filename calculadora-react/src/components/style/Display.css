@@ -1,0 +1,10 @@
+.display {
+  margin: 10px;
+  font-size: 20px;
+  padding: 20px;
+  text-align: right;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #ffffff;
+  color: black;
+}
